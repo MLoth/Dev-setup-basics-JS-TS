@@ -36,9 +36,11 @@ See [default config file](/.prettierrc). This is a config that works best in my 
 
 ## ESLint
 
-Linting vs formatting: Prettier will format the docuement, ESLint will lint it. Formatting only makes the code consistent with indentation, tabs, spaces, etc. Linting will interpret the code and make sure it is correct; correct use of let, const, etc.
+Linting vs formatting: Prettier will format the document, ESLint will lint it. Formatting only makes the code consistent with indentation, tabs, spaces, etc. Linting will interpret the code and make sure it is correct; correct use of let, const, etc.
 
 **TODO:** Make sure ESLint & Prettier are not conflicting! [ESLint config for Prettier](https://github.com/prettier/eslint-config-prettier#installation) tries to resolve these conflicts.
+
+I always start looking at the docs for my specific needs on the technology I'm working on at the moment.
 
 ## VS Code extensions
 
