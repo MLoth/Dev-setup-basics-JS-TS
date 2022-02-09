@@ -8,6 +8,20 @@ Some guidelines to start working with JavaScript based tools. This should help y
 
 An asynchronous event-driven JavaScript runtime. Allows you to run JS.
 
+## NPM / Yarn
+
+With npm or yarn, we can install node-packages.
+Differences are minor - I mostly use npm at the moment (yarn is very similar, but not documented here). Some useful notes on frequently used commands and terms:
+
+- `npm i` (same as `npm install`): installs all the packages from the package.json file.
+- There are two types of packages:
+  1. Packages for during development.
+     Install packages for development use with `-D` or also `--save-dev` -> `npm i -D a-package`.
+  2. Packages that are used in the app are installed with `npm i`.
+     Be consistent with this difference. This is mostly documented.
+- The folder `/node_modules`: contains all the installed packages. **Should always be git-ignored!** Always feel free to delete this folder; `npm i` will get the folder back.
+- NPM is installed along Node.js. So it is also linked to the current node.js version.
+
 ## NVM - Node version manager
 
 Allows you to easy switch between different versions of Node.js.
@@ -15,6 +29,8 @@ Allows you to easy switch between different versions of Node.js.
 **TODO:** Go to the [nvm repo](https://github.com/nvm-sh/nvm). Install the tools _(only for unix, macOS & Windows WSL)_.
 
 I'd recommend the use of WSL on Windows. **Make sure you use a WSL-terminal inside VS Code!**
+
+When a `.nvmrc`-file is present, nvm will find the correct node-version for the current project. This will work with the command: `nvm use`.
 
 ## Prettier
 
