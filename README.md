@@ -46,6 +46,15 @@ I always start looking at the docs for my specific needs on the technology I'm w
 
 Some useful VS code extensions. Your workflow might differ.
 
+### Recommended
+
 - [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) see the impact of the bundle you are importing.
 - [Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) see the impact of the bundles / modules you are importing.
+
+### Optional
+
+- [Non breaking space highlighter](https://marketplace.visualstudio.com/items?itemName=viktorzetterstrom.non-breaking-space-highlighter) On macOS you might accidentaly typ a space with `option + space`. This shows that _hidden_ error.
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Check Git.
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+- [BundlePhobia](https://marketplace.visualstudio.com/items?itemName=crewsycrews.bundlephobia-support) Quickly check the size of a npm-package.
