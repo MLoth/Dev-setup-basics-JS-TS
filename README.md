@@ -50,6 +50,8 @@ See [default config file](/.prettierrc). This is a config that works best in my 
   2. Choose `Format Document`
   3. Choose Prettier as default formatter.
 
+_There is also an alternative. [Editorconfig](https://editorconfig.org) has a very similar approach and fuctionality. I never really liked it as much as Prettier however... When working with a different programming language, this could be your best option, eg. Python._
+
 ## ESLint
 
 Linting vs formatting: Prettier will format the document, ESLint will lint it. Formatting only makes the code consistent with indentation, tabs, spaces, etc. Linting will interpret the code and make sure it is correct; correct use of let, const, etc.
