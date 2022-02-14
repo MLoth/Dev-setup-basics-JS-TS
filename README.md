@@ -1,4 +1,4 @@
-Pull requests are welcome.
+**Pull requests are welcome: anything that helps to create a good environment for JS-development.**
 
 # Dev setup basics
 
