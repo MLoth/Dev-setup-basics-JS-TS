@@ -76,3 +76,8 @@ Some useful VS code extensions. Your workflow might differ.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Check Git.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
 - [BundlePhobia](https://marketplace.visualstudio.com/items?itemName=crewsycrews.bundlephobia-support) Quickly check the size of a npm-package.
+
+## Git
+
+A good way of working with .git can be gitflow.
+Use 1. [Gitkraken](https://www.gitkraken.com) (you have a student license by using your Howest emailaddress) or 2. [Fork](https://git-fork.com), for an easier approach.
