@@ -76,6 +76,7 @@ Some useful VS code extensions. Your workflow might differ.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Check Git.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
 - [BundlePhobia](https://marketplace.visualstudio.com/items?itemName=crewsycrews.bundlephobia-support) Quickly check the size of a npm-package.
+- [Sublime text keymapping](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) Easy if you want to use my exact keymapping.
 
 ## Git
 
